@@ -1,21 +1,89 @@
-MIT License
+# TakoOS PyCore™ Detaylı Lisans Bilgilendirmesi
 
-Copyright (c) 2025 Tunababa54
+**Geliştirici: PixelForge Studios**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Bu doküman, TakoOS PyCore™ yazılım projesinin kullanımını ve dağıtımını düzenleyen lisans koşullarını detaylandırmak amacıyla hazırlanmıştır. Proje, standart **MIT Lisansı** altında lisanslanmıştır. Aşağıda, lisans metninin kendisi ve bu lisansın ne anlama geldiğine dair ek açıklamalar bulunmaktadır.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Önemli Not:** Aşağıdaki açıklamalar, MIT Lisansı'nın hukuki metninin yorumlanması amacıyla sunulmuştur ve hukuki tavsiye niteliği taşımaz. Herhangi bir hukuki konuda profesyonel danışmanlık almanız tavsiye edilir.
+
+---
+
+## MIT Lisansı Metni
+
+Aşağıdaki metin, TakoOS PyCore™ için geçerli olan standart MIT Lisansı'nın Türkçe, İngilizce ve Arapça dillerindeki kopyasıdır. Yazılımın herhangi bir kopyasını veya önemli bir kısmını dağıtırken bu lisans metninin **tamamını** dahil etmeniz gerekmektedir.
+
+### Türkçe
+
+Telif Hakkı (c) 2025 PixelForge Studios
+
+Bu yazılım ve ilgili belge dosyalarının ("Yazılım") bir kopyasını elde eden herkese, Yazılımı kısıtlama olmaksızın kullanma, kopyalama, değiştirme, birleştirme, yayınlama, dağıtma, alt lisanslama ve/veya Yazılımın kopyalarını satma ve Yazılımın sağlandığı kişilere aşağıdaki koşullara tabi olarak bunları yapmalarına izin verme hakkı ücretsiz olarak verilmiştir:
+
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, Yazılımın tüm kopyalarına veya önemli kısımlarına dahil edilecektir.
+
+YAZILIM "OLDUĞU GİBİ", HERHANGİ BİR GARANTİ OLMAKSIZIN, AÇIK VEYA ZIMNİ, SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE SAĞLANMIŞTIR. YAZILIMIN VEYA YAZILIMIN KULLANIMINDAN VEYA DİĞER İŞLEMLERİNDEN KAYNAKLANAN HERHANGİ BİR SÖZLEŞME EYLEMİ, HAKSIZ FİİL VEYA BAŞKA BİR ŞEKİLDE, HERHANGİ BİR İDDİA, HASAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN TELİF HAKKI SAHİPLERİ VEYA KATKIDA BULUNANLAR SORUMLU TUTULAMAZ.
+
+### English
+
+Copyright (c) 2025 PixelForge Studios
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files ("The Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### العربية
+
+حقوق النشر (c) 2025 PixelForge Studios
+
+يُمنح بموجب هذا، مجانًا، لأي شخص يحصل على نسخة من هذا البرنامج وملفات التوثيق المرتبطة به ("البرنامج")، الحق في التعامل مع البرنامج دون قيود، بما في ذلك على سبيل المثال لا الحصر حقوق الاستخدام، النسخ، التعديل، الدمج، النشر، التوزيع، الترخيص الفرعي، و/أو بيع نسخ من البرنامج، والسماح للأشخاص الذين يتم تزويدهم بالبرنامج بالقيام بذلك، وفقًا للشروط التالية:
+
+يجب أن يتضمن جميع النسخ أو الأجزاء الجوهرية من البرنامج إشعار حقوق النشر المذكور أعلاه وإشعار الإذن هذا.
+
+يتم توفير البرنامج "كما هو"، دون أي ضمان من أي نوع، صريحًا أو ضمنيًا، بما في ذلك على سبيل المثال لا الحصر ضمانات القابلية للتسويق، الملاءمة لغرض معين، وعدم الانتهاك. لا يتحمل المؤلفون أو أصحاب حقوق النشر بأي حال من الأحوال المسؤولية عن أي مطالبة أو أضرار أو مسؤولية أخرى، سواء كانت في إجراء عقد أو ضرر أو غير ذلك، تنشأ عن أو تتعلق بالبرنامج أو استخدامه أو التعاملات الأخرى في البرنامج.
+
+---
+
+## MIT Lisansı Ne Anlama Geliyor? (Detaylı Açıklama)
+
+MIT Lisansı, açık kaynaklı yazılımlar için oldukça popüler ve izin verici (permissive) bir lisanstır. Temel olarak kullanıcılara Yazılım ile istedikleri her şeyi yapma özgürlüğü tanır, ancak bu özgürlük birkaç basit koşula bağlıdır.
+
+**Temel Haklarınız ve Özgürlükleriniz:**
+
+1.  **Kullanma:** Yazılımı herhangi bir amaçla, ticari veya ticari olmayan, kişisel veya kurumsal olarak kullanabilirsiniz.
+2.  **Kopyalama:** Yazılımın kopyalarını oluşturabilir, dağıtabilirsiniz.
+3.  **Değiştirme:** Yazılımın kaynak kodunu değiştirebilir, kendi ihtiyaçlarınıza göre uyarlayabilirsiniz.
+4.  **Birleştirme:** Yazılımı başka yazılımlarla veya projelerle birleştirebilirsiniz.
+5.  **Yayınlama:** Yazılımı veya değiştirdiğiniz/birleştirdiğiniz halini yayınlayabilirsiniz.
+6.  **Dağıtma:** Yazılımı başkalarına dağıtabilirsiniz.
+7.  **Alt Lisanslama:** Yazılımı alan kişilere alt lisanslar verebilirsiniz (örneğin, Yazılımı ticari bir ürünün parçası olarak satarken).
+8.  **Satma:** Yazılımın kopyalarını satabilirsiniz.
+
+**Yerine Getirmeniz Gereken Koşullar:**
+
+MIT Lisansı'nın size tanıdığı bu geniş özgürlüklere karşılık yerine getirmeniz gereken **tek temel koşul** şudur:
+
+* **Lisans ve Telif Hakkı Bildirimini Dahil Etme:** Yazılımın herhangi bir kopyasını veya önemli bir kısmını (kaynak kodu veya derlenmiş/çalıştırılabilir hali dahil) dağıtırken, yukarıdaki orijinal telif hakkı bildirimini (Copyright notice) ve bu izin bildirimini (Permission notice) **mutlaka** dahil etmelisiniz. Bu genellikle yazılımın kaynak kodunda, dokümantasyonunda veya kullanıcı arayüzünde görünür bir yerde yapılır.
+
+**Geliştirici (PixelForge Studios) Sorumlulukları ve Garanti Reddi:**
+
+Lisans metninin sonunda yer alan büyük harfli bölüm ("THE SOFTWARE IS PROVIDED "AS IS"...") geliştiricinin (PixelForge Studios) herhangi bir garanti vermediğini ve herhangi bir sorumluluk kabul etmediğini belirtir. Bu şu anlama gelir:
+
+* **Garanti Yok:** Yazılım, herhangi bir açık veya zımni garanti olmaksızın ("olduğu gibi") sunulur. Yani geliştirici, Yazılımın belirli bir amaca uygun olduğu, hatasız olduğu, kesintisiz çalışacağı veya herhangi bir ihlal içermediği konusunda herhangi bir taahhütte bulunmaz.
+* **Sorumluluk Reddi:** Yazılımın kullanımından veya kullanılamamasından kaynaklanan herhangi bir doğrudan, dolaylı, arızi, özel, örnek teşkil eden veya sonuç olarak ortaya çıkan zararlardan (kar kaybı, veri kaybı, iş kesintisi vb. dahil) geliştirici veya katkıda bulunanlar sorumlu tutulamaz. Yazılımı kullanmanın tüm riski size aittir.
+
+**Neden MIT Lisansı?**
+
+PixelForge Studios'un MIT Lisansı'nı tercih etmesinin nedeni, projenin olabildiğince geniş bir kitle tarafından özgürce kullanılmasını, değiştirilmesini ve dağıtılmasını teşvik etmektir. Bu lisans, kullanıcılar için minimum kısıtlama getirirken, geliştiricinin de sorumluluğunu net bir şekilde sınırlar.
+
+**Katkıda Bulunma:**
+
+Eğer TakoOS PyCore™ projesine katkıda bulunmak isterseniz, katkılarınızın da MIT Lisansı altında olacağını kabul etmiş sayılırsınız. Katkılarınızla ilgili detaylı bilgi ve yönergeler için projenin katkı kılavuzuna (varsa) başvurabilirsiniz.
+
+**Sonuç:**
+
+TakoOS PyCore™'u kullanırken veya dağıtırken, size tanınan geniş özgürlüklerin keyfini çıkarabilirsiniz. Tek yapmanız gereken, Yazılımın kopyalarıyla birlikte orijinal MIT Lisansı metnini ve telif hakkı bildirimini de eklemektir. Yazılımın kullanımıyla ilgili tüm riskin size ait olduğunu ve geliştiricinin herhangi bir garanti veya sorumluluk kabul etmediğini unutmayınız.
+
+Umarım bu detaylı bilgilendirme, lisansın kapsamını daha iyi anlamana yardımcı olmuştur reis! 💪
