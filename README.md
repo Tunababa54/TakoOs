@@ -14,8 +14,8 @@ Rootlu Android cihazlar (POCO X3 NFC gibi) üzerinde Termux ortamında çalışm
 1. Termux uygulamasını kurun.
 2. Cihazınızın rootlu olduğundan ve Termux'a root erişimi verdiğinizden emin olun.
 3. `git clone https://github.com/Tunababa54/TakoOs.git` komutu ile projeyi klonlayın veya dosyaları cihazınıza indirin.
-4. Proje dizinine girin: `cd TakoOS`
-5. Kurulum scriptini çalıştırın: `./setup.sh`
+4. Proje dizinine girin: `cd TakoOs`
+5. Kurulum scriptini çalıştırın: `sh setup.sh`
 6. Sistemi başlatın: `python main.py`
 
 **Not:** Siber Güvenlik Araçları modülü root yetkisi gerektirir ve bazı araçların çalışması için ek paket kurulumları gerekebilir. Bazı araçlar (örn: Burp Suite) bu sistem içine tam entegre edilemez, harici olarak çalıştırılmalıdır.
